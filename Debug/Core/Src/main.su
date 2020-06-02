@@ -1,0 +1,6 @@
+main.c:73:5:main	16	static
+main.c:142:6:SystemClock_Config	72	static
+main.c:180:13:MX_CAN_Init	8	static
+main.c:217:13:MX_GPIO_Init	32	static
+main.c:239:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:251:6:Error_Handler	4	static
